@@ -37,7 +37,7 @@ public static void main(String[] args) {
  System.out.println ("Carrera:" + carrera);
  System.out.println ("Estatura:" + estatura);
  
- 
+ entrada.close();
  
  }  
 }
