@@ -6,7 +6,7 @@ package com.mycompany.ejerciciosjava;
 import java.util.Scanner;
 /**
  *
- * @author User Génesis Paulette Calero Campoverde
+ * @author Génesis Paulette Calero Campoverde
  */
 public class Ejercicio11 {
 public static void main(String[] args) {
